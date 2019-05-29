@@ -17,7 +17,7 @@
  ## Installation
 
  Install using **composer**:
- It's mirror created because original repository in unavailable. Your can use it at your own risk. To make installation works your should add next code to composer.json:
+ It's mirror created because original repository is unavailable. Your can use it at your own risk. To make installation works your should add next code to composer.json:
 ```json
   "repositories": [
     {
