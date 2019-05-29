@@ -17,6 +17,15 @@
  ## Installation
 
  Install using **composer**:
+ It's mirror created because original repository in unavailable. Your can use it at your own risk. To make installation works your should add next code to composer.json:
+```json
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Tatikoma/qr-code"
+    }
+  ]
+```
 
  ```bash
  $ composer require werneckbh/qr-code
